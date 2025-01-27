@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S4blje, I'm 18 years old.</h1>
-<h3 align="center">A passionate frontend developer from Bosnia and Herzegovina</h3>
+<h3 align="center">Full Stack Developer / IT Security / Network Security</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
